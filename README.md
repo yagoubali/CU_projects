@@ -1,1 +1,1 @@
-# CU_projects
+# CU projects
